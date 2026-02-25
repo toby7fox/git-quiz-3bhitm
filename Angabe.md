@@ -40,7 +40,7 @@ Commit: add
 id: 8be24db117802b8ebe2f24ea2d230426244d5a73
 die ref im a tag wurden gelöscht
 Befehl: git log --all -p
-Commits count: 12
+Commits count at this stage: 12
 
 ----------------------- 
 
